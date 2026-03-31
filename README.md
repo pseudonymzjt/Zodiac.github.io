@@ -6,6 +6,9 @@
 
 ==春天快乐==
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Zodiac.github.io" /> </div>
+
+
 常用网站：
 
 [B站](https://www.bilibili.com/)
