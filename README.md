@@ -3,22 +3,15 @@
 
 欢迎关注：微信公众号 “星宫荧的音乐小站”
 
-### 🛠 Languages
-![Language](https://img.shields.io/github/languages/top/HoshimiyaMukuro499/Zodiac.github.io?color=blue)
-![Test](https://github-readme-stats.deno.dev/api/top-langs/?username=anuraghazad&layout=compact)
-
-### 📊 GitHub Stats
-![HoshimiyaMukuro499's stats](https://github-readme-stats.deno.dev/api/top-langs/?username=HoshimiyaMukuro499&layout=compact&theme=radical)
-
-### 📈 GitHub Profile Stats
-![HoshimiyaMukuro499's stats](https://github-readme-stats.deno.dev/api?username=HoshimiyaMukuro499&show_icons=true&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoshimiyaMukuro499&theme=react-dark)
-
-
 ==春天快乐==
 
-常用网站：
+### 🛠 Languages
+![Language](https://img.shields.io/github/languages/top/HoshimiyaMukuro499/Zodiac.github.io?color=blue)
+
+### 测试：
+![Test](https://github-readme-stats.deno.dev/api/top-langs/?username=anuraghazad&layout=compact)
+
+### 常用网站：
 
 [B站](https://www.bilibili.com/)
 
