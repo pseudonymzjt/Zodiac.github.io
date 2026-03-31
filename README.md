@@ -3,6 +3,8 @@
 
 欢迎关注：微信公众号 “星宫荧的音乐小站”
 
+![Test](https://github-readme-stats.deno.dev/api/top-langs/?username=anuraghazad&layout=compact)
+
 ### 📊 GitHub Stats
 ![HoshimiyaMukuro499's stats](https://github-readme-stats.deno.dev/api/top-langs/?username=HoshimiyaMukuro499&layout=compact&theme=radical)
 
