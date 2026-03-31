@@ -1,7 +1,7 @@
 # DSA Assignment #4: 线性结构
 
 *Updated 2026-03-23 22:22 GMT+8*
- *Compiled by <mark>肖云天、生命科学学院</mark> (2026 Spring)*
+ *Compiled by <mark>***,生命科学学院</mark> (2026 Spring)*
 <font color='pink'>粉色代表这道题是已知知识点的困难题目</font>
 
 <font color='skyblue'>天蓝色代表这道题是新知识点，需要记忆</font>
