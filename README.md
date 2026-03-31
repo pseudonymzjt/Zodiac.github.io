@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🌌 Zodiac.github.io
+# 🌌 Zodiac
 
  **Welcome to my digital space** 
 
