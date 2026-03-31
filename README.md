@@ -5,10 +5,8 @@
 
 ==春天快乐==
 
-### 🛠 Languages
 ![Language](https://img.shields.io/github/languages/top/HoshimiyaMukuro499/Zodiac.github.io?color=blue)
 
-### 测试：
 ![Test](https://github-readme-stats.deno.dev/api/top-langs/?username=anuraghazad&layout=compact)
 
 ### 常用网站：
